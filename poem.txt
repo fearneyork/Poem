@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn by Roy.G. Biv
+The Rainbow and the Unicorn and the Pony by Roy.G. Biv
 
 Red
 Orange
@@ -11,3 +11,4 @@ Unicorn
 Cyan
 
 These are the colours of the rainbow and the unicorn.
+Pony
